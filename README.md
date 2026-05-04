@@ -1,17 +1,25 @@
-# LeetCode Daily Practice
+# 🚀 LeetCode Solutions
 
-This repository contains my daily solutions to LeetCode problems.
+This repository contains my solutions to LeetCode problems, organized by topic.
 
-## Goal
-Solve problems consistently and improve problem-solving skills.
+---
 
-## Topics
-- Arrays
-- Strings
-- Sorting
-- Hash Table
-- Binary Search
-- Depth-First Search
-- Dynamic Programming
-- Backtracking
-- Divide and Conquer
+## 📂 Structure
+
+* Arrays
+* Backtracking
+* Binary Search
+* Bit Manipulation
+* DP
+* Divide and Conquer
+* Linked List
+* Math
+* Strings
+
+---
+
+## 🛠️ Language
+
+* C++
+
+---
